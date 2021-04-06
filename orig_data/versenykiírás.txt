@@ -1,0 +1,34 @@
+######## Versenyfájl ismertetése ########
+
+## Az adatbázis leírása (train_verseny.sav)
+
+Az adatbázis egy lakossági SRS adatfelvétel eredménye. Csak a demográfiai adatokat tartalmazza 2344 ember esetében.
+A változók leírása az SPSS fájlban található a "label" mezõkben.
+
+## A verseny során megoldandó probléma
+
+Tekintsük a mintát a magyar lakosság torzítatlan reprezentánsának. Célunk a megkérdezettek munkerõpiaci státuszának becslése.
+
+Célváltozó: dolg (Ön jelenleg dolgozik / nyugdíjas?) NOMINÁLIS változó
+Célváltozó értékkészlete: {1, 2, 3, 4}
+
+Feladat: alkosson olyan modellt, amely megbízható predikciót ad 100 véletlenszerûen kiválasztott egyed munkaerõpiaci státuszára.
+
+Alkalmazott módszerek: bármilyen módszert alkalmazhat, de legalább 2-t használjon fel a 2017/2018-as tanévben tanultakból. A szoftver tekintetében szabad választása van.
+Az adatbázist szabadon kiegészítheti más változókkal, elvégezhet bármilyen módosítást, amelyet szükségesnek tart és indokolni tud.
+
+## Verseny elbírálása
+
+Becsléseit a test_verseny.sav fájl változóinak felhasználásával készítse el!
+Készítsen rövid prezentációt, amelyben az elemzés menetét ismerteti, kitérve a lényeges próbálkozásokra, függetlenül attól, hogy sikeresek voltak-e vagy sem.
+Interpretálja az eredményeket és az összefüggéseket!
+Az elkészült becsléseket töltse fel a moodleba.
+Ügyeljen rá, hogy ha addícionális változót is felhasznált, akkor azokat is hozza el a vizsgára, különben nem tudjuk leellenõrizni a becsléseit.
+
+## Értékelés
+
+Az értékelés nem kapcsolódik szorosan az elért eredményekhez. Egyszerre, de különbözõ súllyal vesszük figyelembe a módszertani alaposságot, a kitartást, az értelmezést, a prezentáció minõségét és az eredményeket magukat.
+
+######## Jó munkát kívánunk!!! ########
+
+VP & VP
